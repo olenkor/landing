@@ -1,0 +1,17 @@
+.schedule{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #261d17;
+    background-image: url("img/parallax.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 1600;
+}
+
+.schedule__title{
+    color: #fff;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 85px;
+    font-weight: 700;
+}
